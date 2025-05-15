@@ -25,5 +25,7 @@ I learned to use the terminal to:
 
 
 git clone https://github.com/osamaaAlmahameed/dev-diary.git
+
 cd dev-diary
+
 code .
