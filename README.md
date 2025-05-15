@@ -24,8 +24,8 @@ I learned to use the terminal to:
 ### Terminal Commands I Used:
 
 
-git clone https://github.com/osamaaAlmahameed/dev-diary.git
+- git clone https://github.com/osamaaAlmahameed/dev-diary.git
 
-cd dev-diary
+- cd dev-diary
 
-code .
+- code .
